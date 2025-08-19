@@ -1,5 +1,5 @@
 {
-  "name": "부인과 랜덤 종양 퀴즈",
+  "name": "부인과 종양 랜덤 퀴즈",
   "short_name": "부인과 종양 퀴즈",
   "start_url": "./index.html?v=5",
   "display": "standalone",
